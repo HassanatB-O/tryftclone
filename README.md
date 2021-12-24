@@ -1,3 +1,4 @@
 # tryftclone
 # Tryft
-This is a School STudies Management Desktop (only the Desktop version is available)
+This is a School Studies Management page (only the Desktop version is available)
+Link: https://hassanatb-o.github.io/tryftclone/
